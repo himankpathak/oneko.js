@@ -13,3 +13,7 @@ implemented in a few different places
   - Userscript: https://openuserjs.org/scripts/sjehuda/Oneko_WebMate
   - Vencord: https://vencord.dev/plugins/oneko
   - Spicetify: https://github.com/kyrie25/spicetify-oneko
+
+feature forks
+ - Pet the cat: https://github.com/tylxr59/oneko.js/tree/main
+ - Move the cat using scroll wheel: https://github.com/rozbrajaczpoziomow/fork-oneko.js/tree/main
